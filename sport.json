@@ -1,0 +1,44 @@
+{
+    "results": [
+        {
+            "id": 6,
+            "tanggal": "2016-09-20T07:26:34.008Z",
+            "nomor": "5/LAPSIT/KABIN/WAKABIN/IX/2016",
+            "judul": "sadasdasd asd asd",
+            "jenis": "Laporan Situasi",
+            "aspek": [
+                "Biografi"
+            ],
+            "pengirim": "admin@example.com",
+            "tujuan": "KABIN/WAKABIN",
+            "lampiran": 0
+        },
+        {
+            "id": 4,
+            "tanggal": "2016-09-16T02:57:37.094Z",
+            "nomor": "4/LAPINTEL/KABIN/WAKABIN/IX/2016",
+            "judul": "asdasd",
+            "jenis": "Laporan Atensi",
+            "aspek": [
+                "Ekonomi"
+            ],
+            "pengirim": "admin@example.com",
+            "tujuan": "SUBBAG PENGUMPULAN DAN PELAPORAN DATA KEPEGAWAIAN",
+            "lampiran": 1
+        },
+        {
+            "id": 3,
+            "tanggal": "2016-09-16T02:44:27.363Z",
+            "nomor": "3/LAPINTEL/KABIN/WAKABIN/IX/2016",
+            "judul": "asdasd asd",
+            "jenis": "Laporan Situasi",
+            "aspek": [
+                "Sejarah",
+                "Sejarah"
+            ],
+            "pengirim": "admin@example.com",
+            "tujuan": "BAG PENGOLAHAN DAN PELAPORAN DATA KEPEGAWAIAN",
+            "lampiran": 2
+        }
+    ]
+}
